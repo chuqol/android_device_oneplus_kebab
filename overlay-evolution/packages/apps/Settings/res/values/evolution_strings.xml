@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2024 The Evolution X Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Add maintainer name and Telegram Link -->
+    <string name="build_maintainer_summary">Chuqol</string>
+    <string name="build_maintainer_donate_url">https://t.me/Chuqol</string>
+    
+</resources>
